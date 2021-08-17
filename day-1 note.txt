@@ -1,0 +1,23 @@
+data structure
+.....................
+
+1. list
+2. tuple
+3. set
+4. dictonary
+............................
+
+mutable = can be change (can add values)
+immutable = can not be change
+
+list = mutable
+tuple = immutable
+
+......................
+
+in python copy are of two types 
+1. sallow copy (for small amount of data copy)
+2. deepcopy (for large amount of data copy)
+
+sallow copy can not copy large amount of data it may miss some data and files while copying.
+

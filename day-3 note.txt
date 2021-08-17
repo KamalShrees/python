@@ -1,0 +1,20 @@
+in slicing
+first position or limit (argument) is inclusive
+last position is exclusive
+
+here, inclusive means starts with exact what is given 
+ for eg. (2,10)
+ here the range starts with 2.
+
+and, exclusive means, ends with (-1)
+ for example (2,10)
+here, the range is (2,3,4,5,6,7,8,9)
+
+( _ ) = dummy variable
+
+
+................................................
+iterable: 
+An iterable is any Python object capable of returning its members one at a time, 
+permitting it to be iterated over in a for-loop. 
+Familiar examples of iterables include lists, tuples, and strings 

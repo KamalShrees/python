@@ -1,0 +1,2 @@
+for loop use for range
+while loop use for not fix conditions

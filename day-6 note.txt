@@ -1,0 +1,15 @@
+GIL
+rename
+renames 
+replace
+enumerate = unpacking
+
+set can not contain any type of other data structure (set, list)
+mutiable data structure are unhashable
+
+dictonary = collection of key:value 
+no indexing in dict
+because its use hashing algorithm
+
+positional arguments
+keywords arguments
